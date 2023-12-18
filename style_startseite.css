@@ -19,12 +19,7 @@ p {
   align-items: center;
   justify-content: center;
 }
-b {
-  display: flex;
-  margin: 0;
-  align-items: center;
-  justify-content: center;
-}
+
 .container {
   display: flex;
   flex-direction: column;
